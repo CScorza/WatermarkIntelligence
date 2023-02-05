@@ -1,8 +1,9 @@
 ![Index](https://user-images.githubusercontent.com/98583912/216812304-c3eccead-9b59-49d5-8dcc-9622d0d48412.gif)
 
-||**Indice**|
+**Indice**
+
+|[**Inserire il Watermark**](https://github.com/CScorza/WatermarkIntelligence#programmi-per-inserire-il-watermark)|[**Togliere il Watermark**](https://github.com/CScorza/WatermarkIntelligence#rimuovere-il-watermark)|
 | :--- | :--- |
-|[**Inserire il Watermark**](https://github.com/CScorza/WatermarkIntelligence/#programmi-per-inserire-il-watermark)|[**Togliere il Watermark**]()|
 
 **Cos'è?**
 ```
@@ -36,12 +37,12 @@ il watermark verrà automaticamente alterato, rendendo evidente che la fonte ori
 
 # PSoftware per Inserire il Watermark
 
-||**Software Gratuiti:**|
+|**Software Gratuiti:**||
 | :--- | :--- |
 |[**uMark**](https://www.uconomix.com/Products/uMark/)|**Un programma gratuito per Windows e Mac che consente di creare watermark su immagini e documenti.**|
 |[**Watermark.ws**](https://watermark.ws/)|**Un'applicazione web gratuita che consente di creare watermark su immagini e documenti.**|
 |[**Visual Watermarke**](https://www.visualwatermark.com/it)|**Un programma gratuito per Windows/Mac che consente di creare watermark su immagini e documenti.**|
-|[**FastStone Photo Resizer**](http://www.faststone.org/FSResizerDetail.htm)|**Software per  applicare watermark e rinomare le foto, senza sovrascrivere le immagini originali.**|
+|[**FastStone Photo Resizer**](http://www.faststone.org/FSResizerDetail.htm)|**Software per applicare watermark e rinomare le foto, senza sovrascrivere le immagini originali.**|
 |[**Clipchamp**](https://clipchamp.com/it/)|**Software gratuito di Editing, capace di realizzare watermark sui video.**|
 
 **Guida all'inserimento di un Watermark**
@@ -58,13 +59,13 @@ il watermark verrà automaticamente alterato, rendendo evidente che la fonte ori
 |**5-**|**Eseguire un'anteprima del watermark sulle immagini selezionate per verificare che soddisfi i requisiti.**|**elezionare il tipo di watermark che si desidera utilizzare, come "Testo" o "Immagine", e personalizzare il watermark utilizzando le opzioni disponibili.**|**Trascinare il watermark nella posizione desiderata sul video e regolare la trasparenza utilizzando la barra di scorrimento "Opacità".**|
 |**6-**|**Salvare le immagini con il watermark utilizzando il comando "Salva" o "Esporta" nel software.**|**Regolare la posizione, la trasparenza e la dimensione del watermark utilizzando le barre di scorrimento e i controlli disponibili.**|**Anteprima il watermark sul video per verificare che soddisfi i requisiti. Fare clic sul pulsante "Esporta" per scaricare il video con il watermark.**|
 
-||**Software a Pagamento:**|
+|**Software a Pagamento:**||
 | :--- | :--- |
-|[**Adobe Photoshop**](https://www.adobe.com/it/products/photoshop.html)|**un programma a pagamento per Windows e Mac che consente di creare watermark su immagini e documenti.**|
-|[**Lightroom**](https://www.adobe.com/it/products/photoshop-lightroom.html)|**un programma a pagamento per Windows e Mac che consente di creare watermark su immagini e documenti.**|
-|[**Premier**](https://www.adobe.com/it/products/premiere.html)|***un programma a pagamento per Windows e Mac che consente di creare watermark sui video**|
-|[**CorelDRAW**](https://www.coreldraw.com/it/)|**un programma a pagamento per Windows e Mac che consente di creare watermark su immagini e documenti.**|
-|[**Watermark Factory**](https://watermark-factory.software.informer.com/2.5/)|**un programma a pagamento per Windows che consente di creare watermark su immagini e documenti.**|
+|[**Adobe Photoshop**](https://www.adobe.com/it/products/photoshop.html)|**Un programma a pagamento per Windows e Mac che consente di creare watermark su immagini e documenti.**|
+|[**Lightroom**](https://www.adobe.com/it/products/photoshop-lightroom.html)|**Un programma a pagamento per Windows e Mac che consente di creare watermark su immagini e documenti.**|
+|[**Premier**](https://www.adobe.com/it/products/premiere.html)|**Un programma a pagamento per Windows e Mac che consente di creare watermark sui video**|
+|[**CorelDRAW**](https://www.coreldraw.com/it/)|**Un programma a pagamento per Windows e Mac che consente di creare watermark su immagini e documenti.**|
+|[**Watermark Factory**](https://watermark-factory.software.informer.com/2.5/)|**Un programma a pagamento per Windows che consente di creare watermark su immagini e documenti.**|
 
 **Guida all'inserimento di un Watermark**
 
@@ -82,8 +83,9 @@ il watermark verrà automaticamente alterato, rendendo evidente che la fonte ori
 
 **Software**
 
-|[**Remove.bg**](https://www.remove.bg/it)|**Software per la rimozione di sfondi e Watermark**|
+|[**Remove.bg**](https://www.remove.bg/it)|**Software Online per la rimozione di sfondi e Watermark**|
 | :--- | :--- |
+|[**WatermarkRemover.io**](https://www.watermarkremover.io/it)|**Software Online per la rimozione di Watermark**|
 
 **Guida**
  - [**Come rimuovere una filigrana da un'immagine in Photoshop**](https://www.creativosonline.org/it/como-eliminar-marca-de-agua-photoshop.html)
