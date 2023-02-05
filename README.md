@@ -2,7 +2,7 @@
 
 **Indice**
 
-|[**Inserire il Watermark**](https://github.com/CScorza/WatermarkIntelligence#programmi-per-inserire-il-watermark)|[**Togliere il Watermark**](https://github.com/CScorza/WatermarkIntelligence#rimuovere-il-watermark)|
+|[**Inserire il Watermark**](https://github.com/CScorza/WatermarkIntelligence#software-per-inserire-il-watermark)|[**Togliere il Watermark**](https://github.com/CScorza/WatermarkIntelligence#rimuovere-il-watermark)|
 | :--- | :--- |
 
 **Cos'è?**
@@ -35,7 +35,7 @@ Questo perché se l'immagine o il documento viene modificato,
 il watermark verrà automaticamente alterato, rendendo evidente che la fonte originale è stata modificata.
 ```
 
-# PSoftware per Inserire il Watermark
+# Software per Inserire il Watermark
 
 |**Software Gratuiti:**||
 | :--- | :--- |
