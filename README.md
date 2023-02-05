@@ -1,5 +1,9 @@
 ![Index](https://user-images.githubusercontent.com/98583912/216812304-c3eccead-9b59-49d5-8dcc-9622d0d48412.gif)
 
+||**Indice**|
+| :--- | :--- |
+|[**Inserire il Watermark**](https://github.com/CScorza/WatermarkIntelligence/#programmi-per-inserire-il-watermark)|[**Togliere il Watermark**]()|
+
 **Cos'è?**
 ```
 Il Watermark (Letteralmente "Filigrana") è un'immagine o un testo trasparente sovrapposto a un'immagine o 
@@ -30,7 +34,9 @@ Questo perché se l'immagine o il documento viene modificato,
 il watermark verrà automaticamente alterato, rendendo evidente che la fonte originale è stata modificata.
 ```
 
-||**Programmi Gratuiti:**|
+# PSoftware per Inserire il Watermark
+
+||**Software Gratuiti:**|
 | :--- | :--- |
 |[**uMark**](https://www.uconomix.com/Products/uMark/)|**Un programma gratuito per Windows e Mac che consente di creare watermark su immagini e documenti.**|
 |[**Watermark.ws**](https://watermark.ws/)|**Un'applicazione web gratuita che consente di creare watermark su immagini e documenti.**|
@@ -52,7 +58,7 @@ il watermark verrà automaticamente alterato, rendendo evidente che la fonte ori
 |**5-**|**Eseguire un'anteprima del watermark sulle immagini selezionate per verificare che soddisfi i requisiti.**|**elezionare il tipo di watermark che si desidera utilizzare, come "Testo" o "Immagine", e personalizzare il watermark utilizzando le opzioni disponibili.**|**Trascinare il watermark nella posizione desiderata sul video e regolare la trasparenza utilizzando la barra di scorrimento "Opacità".**|
 |**6-**|**Salvare le immagini con il watermark utilizzando il comando "Salva" o "Esporta" nel software.**|**Regolare la posizione, la trasparenza e la dimensione del watermark utilizzando le barre di scorrimento e i controlli disponibili.**|**Anteprima il watermark sul video per verificare che soddisfi i requisiti. Fare clic sul pulsante "Esporta" per scaricare il video con il watermark.**|
 
-||**Programmi a Pagamento:**|
+||**Software a Pagamento:**|
 | :--- | :--- |
 |[**Adobe Photoshop**](https://www.adobe.com/it/products/photoshop.html)|**un programma a pagamento per Windows e Mac che consente di creare watermark su immagini e documenti.**|
 |[**Lightroom**](https://www.adobe.com/it/products/photoshop-lightroom.html)|**un programma a pagamento per Windows e Mac che consente di creare watermark su immagini e documenti.**|
@@ -72,7 +78,14 @@ il watermark verrà automaticamente alterato, rendendo evidente che la fonte ori
 |**4-**|**Regolare l'opacità del livello del watermark se necessario utilizzando la barra di scorrimento Opacità nella finestra dei livelli.**|
 |**5-**|**Salvare l'immagine con il watermark utilizzando il comando "File" nella barra dei menu in alto e selezionando "Salva come". Assicurarsi di salvare come formato JPEG o PNG per mantenere la qualità dell'immagine originale e del watermark.**|
 
+# Rimuovere il Watermark
 
+**Software**
 
+|[**Remove.bg**](https://www.remove.bg/it)|**Software per la rimozione di sfondi e Watermark**|
+| :--- | :--- |
+
+**Guida**
+ - [**Come rimuovere una filigrana da un'immagine in Photoshop**](https://www.creativosonline.org/it/como-eliminar-marca-de-agua-photoshop.html)
 
 
