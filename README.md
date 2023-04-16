@@ -1,5 +1,7 @@
 ![Index](https://user-images.githubusercontent.com/98583912/216812304-c3eccead-9b59-49d5-8dcc-9622d0d48412.gif)
 
+[![Telegram](https://img.shields.io/badge/Telegram-CScorza%20%22Indagini%20Telematiche%22-informational)](https://t.me/+kP_uYlc6-345Njc8)
+
 **Indice**
 
 |[**Inserire il Watermark**](https://github.com/CScorza/WatermarkIntelligence#software-per-inserire-il-watermark)|[**Togliere il Watermark**](https://github.com/CScorza/WatermarkIntelligence#rimuovere-il-watermark)|
